@@ -1,0 +1,80 @@
+.main_background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 700px;
+    background: #C4C4C4;
+    padding: 102px 527px 102px 130px;
+    box-sizing: border-box;
+}
+.main_info{
+    width: 710px;
+    height: 470px;
+    background: #E2DFDF;
+    padding: 40px 28px 26px 46px;
+    box-sizing: border-box;
+
+}
+.main_info h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: #000000;
+}
+.main_info p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+.buttons_container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    margin-top: 40px;
+}
+
+.button_call{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 265px;
+    height: 70px;
+    background: #A9A8A8;
+    margin-right: 37px;
+}
+.button_call p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+.button_prod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 265px;
+    height: 70px;
+    border: 1px solid #000000;
+}
+.button_prod p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+
+
+
+
+
